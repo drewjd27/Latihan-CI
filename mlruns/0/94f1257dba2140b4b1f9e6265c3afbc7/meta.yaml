@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Latihan-CI/Latihan-CI/mlruns/0/94f1257dba2140b4b1f9e6265c3afbc7/artifacts
+end_time: 1749644646952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f1257dba2140b4b1f9e6265c3afbc7
+run_name: powerful-fowl-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749644646927
+status: 3
+tags: []
+user_id: runner
